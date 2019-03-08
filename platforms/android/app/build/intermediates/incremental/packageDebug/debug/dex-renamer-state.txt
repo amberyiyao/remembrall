@@ -1,0 +1,4 @@
+#Sat Mar 02 14:48:39 EST 2019
+base.0=/Users/amberzhou/Documents/code/cordova/Final Cordova/Project 3 - REMEMBRALL/3-remenberall/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
